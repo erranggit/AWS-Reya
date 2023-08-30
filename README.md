@@ -1,11 +1,11 @@
 Analysis about Profit from AWS SaaS Sales and Marketing Report
 
-Background
+# Background
 Amazon Web Services (AWS) is a cloud service provider that offers a range of product options, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). AWS derives profits through various business models and services that they provide to customers. AWS serves a diverse array of customers, encompassing both Business-to-Consumer (B2C) and Business-to-Business (B2B) categories. AWS provides services that can be utilized by a variety of organizations and users, including individuals, companies, governments, non-profit institutions, startups, large enterprises, and more.
 
 They offer SaaS, which is a cloud-based software model, including database management services. They also provide IaaS for IT infrastructure, such as computing, storage, and networking resources delivered over the internet, and lastly, they offer PaaS with a platform-based cloud computing model. Each of these services has its own pricing model, signifying that every time customers use these services, AWS generates revenue. As a company grows following their utilization of AWS services, they tend to remain subscribed to AWS services, which can contribute to a sustained revenue stream for AWS.
 
-Problem Statement
+# Problem Statement
 After examining the profits obtained from the years 2020-2023, we have identified that the issue arises due to fluctuations in profit. For profits that experience a significant decrease, we can conduct an analysis to prevent substantial declines from occurring.
 
 Columns
